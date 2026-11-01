@@ -3,7 +3,7 @@
     <title>minija</title>
     <link href="https://minija-work.github.io/gh-pages/feed.xml" rel="self" />
     <link href="https://minija-work.github.io/gh-pages" />
-    <updated>2026-11-01T16:56:31+08:00</updated>
+    <updated>2026-11-01T18:38:31+08:00</updated>
     <author>
         <name>Minija</name>
     </author>
@@ -199,16 +199,19 @@
         </author>
         <link href="https://minija-work.github.io/gh-pages/split-green-gram-payasam-moong-dal-payasam/"/>
         <id>https://minija-work.github.io/gh-pages/split-green-gram-payasam-moong-dal-payasam/</id>
+        <media:content url="https://minija-work.github.io/gh-pages/media/posts/92/cherupayar-payasam.jpg" medium="image" />
             <category term="Desserts"/>
 
         <updated>2026-10-30T14:39:08+08:00</updated>
             <summary type="html">
                 <![CDATA[
+                        <img src="https://minija-work.github.io/gh-pages/media/posts/92/cherupayar-payasam.jpg" alt="" />
                     A traditional, rich payasam made with roasted split green gram, jaggery, coconut milk, and aromatic spices. Easy • 40–50 mins • Dessert • Veg • Serve warm Cook the dal Prepare the jaggery Finish the payasam Reduce the heat and stir in the thick coconut&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://minija-work.github.io/gh-pages/media/posts/92/cherupayar-payasam.jpg" class="type:primaryImage" alt="" /></p>
                 <h1> </h1>
 <p>A traditional, rich payasam made with roasted split green gram, jaggery, coconut milk, and aromatic spices.</p>
 <p><strong>Easy • 40–50 mins • Dessert • Veg • Serve warm</strong></p>
