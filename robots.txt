@@ -1,2 +1,3 @@
 User-agent: *
 Disallow:
+Sitemap: https://minija-work.github.io/gh-pages/sitemap.xml
